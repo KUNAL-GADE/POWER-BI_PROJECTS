@@ -29,3 +29,16 @@ an appropriate manner.*
 
 
 ![Screenshot (48)](https://user-images.githubusercontent.com/98949309/187695998-26b798cd-99d9-4884-8a99-a2260c6bbf6e.png)
+
+
+## FINANCIAL ANALYSIS
+
+* *Worked on a dataset created by me which included my expenses for certain years. Wherein I gave wide
+aspects of my personal expense, income, and savings.*
+
+* *How much money, I had spent over a period of certain years, can be easily understood through this report.*
+
+* *This project gave me a wide aspect of my finance so that I can improve my personal finance a way lot
+better.*
+
+![Screenshot (50)](https://user-images.githubusercontent.com/98949309/187697027-1ca7cbc4-33b0-42ea-8e39-331133c673ae.png)
