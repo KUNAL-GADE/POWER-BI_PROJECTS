@@ -42,3 +42,11 @@ aspects of my personal expense, income, and savings.*
 better.*
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/98949309/187697027-1ca7cbc4-33b0-42ea-8e39-331133c673ae.png)
+
+## STUDENT SURVEY
+
+
+
+![Screenshot (51)](https://user-images.githubusercontent.com/98949309/187698013-13b2806b-d01b-472a-9083-d83e2fd01617.png)
+
+
