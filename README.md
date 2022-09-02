@@ -45,6 +45,14 @@ better.*
 
 ## STUDENT SURVEY
 
+* *Worked on a dataset depicting student survey regarding sale of various sports equipment.*
+
+* *According to the analysis it was found that the total amount of purchase was 6,42,084.* 
+
+* *It was clearly seen that the maximum sales was done by a store located in the 'Seattle' region, which was 31.45%.*
+
+
+
 
 
 ![Screenshot (51)](https://user-images.githubusercontent.com/98949309/187698013-13b2806b-d01b-472a-9083-d83e2fd01617.png)
