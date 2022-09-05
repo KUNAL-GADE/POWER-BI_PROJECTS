@@ -60,11 +60,11 @@ better.*
 
 ## COVID-19 CASES OVERVIEW
 
-* *Worked on a covid -19 dataset, containing covid 19 cases status of differnet countries.
+* *Worked on a covid -19 dataset, containing covid 19 cases status of differnet countries.*
 
-* *The dashboard represents various aspects like which are the top 10 regions with maximum cases, average number of cases, total number of cases etc.
+* *The dashboard represents various aspects like which are the top 10 regions with maximum cases, average number of cases, total number of cases etc.*
 
-* *According to representation the average number of confirmed cases worldwide are around 500, and the average deaths are 33.
+* *According to representation the average number of confirmed cases worldwide are around 500, and the average deaths are 33.*
 
 
 
