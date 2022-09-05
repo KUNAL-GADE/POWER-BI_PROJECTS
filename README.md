@@ -10,7 +10,8 @@ traveling for personal purposes.*
 
 * *It was found that the overall satisfaction rating of the customers was 3.5 out of 5.*
 
-![Screenshot (46)](https://user-images.githubusercontent.com/98949309/187694269-31362224-5e01-4106-b76d-45e40f0493f0.png)
+
+![Screenshot (60)](https://user-images.githubusercontent.com/98949309/188432591-d2bc9a61-d1e6-403b-af54-63bb02fc2ae1.png)
 
 
 
