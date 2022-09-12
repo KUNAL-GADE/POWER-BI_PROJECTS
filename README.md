@@ -73,3 +73,17 @@ better.*
 
 
 ![Screenshot (58)](https://user-images.githubusercontent.com/98949309/188431824-55a5217a-a660-4aa7-aab0-c521ce6c8856.png)
+
+
+## FOOD PRICES IN INDIA
+
+* *This dashboard contains Food Prices data for India, sourced from the World Food Programme Price Database. The World Food Programme Price Database covers foods such as maize, rice, beans, fish, and sugar for 98 countries and some 3000 markets. The data goes back as far as 1992 for a few countries, although many countries started reporting from 2003 or thereafter.*
+
+* * The dashboard includes certain parameters like state wise, market wise  distribution of prices of food, sales type.**
+
+* *To get a vivid idea about which category belongs to which commodity, this parameter is also included in it.*
+
+
+
+![Screenshot (68)](https://user-images.githubusercontent.com/98949309/189639072-279db800-5ebb-49e9-a89d-2d50fda5fada.png)
+
