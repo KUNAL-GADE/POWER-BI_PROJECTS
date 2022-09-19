@@ -32,6 +32,7 @@ an appropriate manner.*
 ![Screenshot (48)](https://user-images.githubusercontent.com/98949309/187695998-26b798cd-99d9-4884-8a99-a2260c6bbf6e.png)
 
 
+
 ## FINANCIAL ANALYSIS
 
 * *Worked on a dataset created by me which included my expenses for certain years. Wherein I gave wide
@@ -43,6 +44,8 @@ aspects of my personal expense, income, and savings.*
 better.*
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/98949309/187697027-1ca7cbc4-33b0-42ea-8e39-331133c673ae.png)
+
+
 
 ## STUDENT SURVEY
 
@@ -57,6 +60,7 @@ better.*
 
 
 ![Screenshot (51)](https://user-images.githubusercontent.com/98949309/187698013-13b2806b-d01b-472a-9083-d83e2fd01617.png)
+
 
 
 ## COVID-19 CASES OVERVIEW
@@ -75,6 +79,7 @@ better.*
 ![Screenshot (58)](https://user-images.githubusercontent.com/98949309/188431824-55a5217a-a660-4aa7-aab0-c521ce6c8856.png)
 
 
+
 ## FOOD PRICES IN INDIA
 
 * *This dashboard contains Food Prices data for India, sourced from the World Food Programme Price Database. The World Food Programme Price Database covers foods such as maize, rice, beans, fish, and sugar for 98 countries and some 3000 markets. The data goes back as far as 1992 for a few countries, although many countries started reporting from 2003 or thereafter.*
@@ -87,4 +92,20 @@ better.*
 
 
 ![Screenshot (69)](https://user-images.githubusercontent.com/98949309/189639279-1663d201-fd6b-422d-b229-b5089311724c.png)
+
+
+
+## HR ANALYTICS
+
+* *Was intrigued to learn how an HR manager would use data analytics, so did this project. Here the given report shows differnet aspects regarding employees of an hypothetical company.*
+
+* *The dashboard includes certain cards displaying work from home, overall presence percentage. A slicer has also been provided to filter the report according to desirable month.*
+
+* *Trend has also been displayed showing how sick leave, work from home, and overall presence percentage varies. This trend has been created particulary for mangaer, founders and cofounders of the company, so that they can get a vivid understanding of the changing pattern.*
+
+
+
+![Screenshot (70)](https://user-images.githubusercontent.com/98949309/190984841-1d3bcb51-c421-468c-9ba7-c420ac0e5d20.png)
+
+
 
