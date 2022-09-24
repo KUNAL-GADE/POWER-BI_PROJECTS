@@ -112,7 +112,7 @@ better.*
 * *This project was done as an part of internship.*
 * *Wherein I was assigned to calculate required KPI for the ads campaign.*
 * *The dashobard depicts active user status, total installs, CTR %, CPC, total expenditure on the ad sets and so forth.*
-* * This task taught me alot of things, as I was unaware about the KPI I researched about it on google and made certain DAX function accordingly.*
+* *This task taught me alot of things, as I was unaware about the KPI I researched about it on google and made certain DAX function accordingly.*
 
 
 
