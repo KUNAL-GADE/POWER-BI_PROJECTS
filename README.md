@@ -107,5 +107,16 @@ better.*
 
 ![Screenshot (70)](https://user-images.githubusercontent.com/98949309/190984841-1d3bcb51-c421-468c-9ba7-c420ac0e5d20.png)
 
+## FB - ADS CAMPAIGN DASHBOARD
+
+* *This project was done as an part of internship.*
+* *Wherein I was assigned to calculate required KPI for the ads campaign.*
+* *The dashobard depicts active user status, total installs, CTR %, CPC, total expenditure on the ad sets and so forth.*
+* * This task taught me alot of things, as I was unaware about the KPI I researched about it on google and made certain DAX function accordingly.*
+
+
+
+
+![Screenshot (71)](https://user-images.githubusercontent.com/98949309/192106908-63dbcbe0-9e9b-4010-990c-e9928a7d84ee.png)
 
 
