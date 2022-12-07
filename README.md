@@ -121,9 +121,9 @@ better.*
 
 ## UK - BANK CUSTOMER SEGMENTATION
 
-* *Worked on a dataset of a random UK bank having a ample customers.*
+* *Worked on a dataset of a random UK bank having  ample customers.*
 * *This dashboard includes customer segmentation depicting their job classification, total count of customers, maximum and minimum age of the customers.*
-* *From the dashboard we can clearly see that the cbank has more male customers as compared to females.*
+* *From the dashboard we can clearly see that the bank has more male customers as compared to females.*
 * *Most of the bank customers are in age range of 20-40.*
 * *Most of them are in white collar job.*
 * *From this dashboard certain measures can be implemented to increase the number of customers and to have a loyal behaviour of exisiting customers.*
